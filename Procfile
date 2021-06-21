@@ -1,0 +1,1 @@
+web: pip install . -U && my_shared_project-run
